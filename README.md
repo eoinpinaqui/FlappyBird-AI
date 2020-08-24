@@ -12,5 +12,5 @@ developing topologies incrementally from simple initial structures ("complexifyi
 You can run this project on repl.it by clicking the above badge or you can download the source code and run `flappy_bird.py`.
 
 ### Implementation
-This project recreated the game "Flappy Bird" using pygame and uses the 
-NEAT python module to teach an AI how to play "Flappy Bird".
+This project recreates the game "Flappy Bird" using pygame and uses the NEAT python module to 
+teach the AI how to play "Flappy Bird".

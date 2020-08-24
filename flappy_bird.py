@@ -1,7 +1,6 @@
 # flappy_bird.py
 import pygame
 import neat
-import time
 import os
 import bird
 import pipe
