@@ -15,4 +15,4 @@ You can run this project on repl.it by clicking the above badge or you can downl
 This project recreates the game "Flappy Bird" using pygame and uses the NEAT python module to 
 teach the AI how to play "Flappy Bird".
 
-![AI for Flappy bird](imgs/example.PNG)
+![AI for Flappy bird](imgs/example.png)
