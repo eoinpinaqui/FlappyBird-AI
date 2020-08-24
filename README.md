@@ -1,5 +1,5 @@
 # FlappyBird-AI
-
+[![Run on Repl.it](https://repl.it/badge/github/eoinpinaqui/FlappyBird-AI)](https://repl.it/github/eoinpinaqui/FlappyBird-AI)
 ### What is Neuroevolution of augmenting topologies (NEAT)?
 NeuroEvolution of Augmenting Topologies (NEAT) is a genetic algorithm for the generation of 
 evolving artificial neural networks. It alters both the weighting parameters and structures of networks, 
